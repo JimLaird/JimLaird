@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JimLaird
-- 👀 I’m interested in Xamarin development
+- 👀 I’m interested in Xamarin and .Net Maui development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anything that'll help me learn
 
